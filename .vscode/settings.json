@@ -1,0 +1,8 @@
+{
+    "python.languageServer": "Pylance",
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.defaultFoldingRangeProvider": "formulahendry.auto-rename-tag",
+    "[python]": {
+        "editor.defaultFormatter": "mikoz.black-py"
+    }
+}
